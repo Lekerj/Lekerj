@@ -19,16 +19,16 @@ Just a guy who likes learning stuff :)
 
 ## 💼 Experience
 
-**⚙️ Solutions Engineer Intern @ <img src="https://www.google.com/s2/favicons?domain=wisesystems.com&sz=64" width="18" align="center" /> [Wise Systems](https://www.wisesystems.com)** · *May 2026 – Present*
+** Solutions Engineer Intern @ <img src="https://www.google.com/s2/favicons?domain=wisesystems.com&sz=64" width="18" align="center" /> [Wise Systems](https://www.wisesystems.com)** · *May 2026 – Present*
 > Pre-sales demos → solution design → customer onboarding. I script "what-if" routing scenarios with Claude + internal planner APIs, so a customer can see the savings before signing anything.
 
-**🎮 Web Developer Intern @ <img src="https://img.shields.io/badge/%20-ffffff?logo=ubisoft&logoColor=000000" height="18" align="center" /> [Ubisoft](https://www.ubisoft.com)** · *Jan – Apr 2026*
+** Web Developer Intern @ <img src="https://img.shields.io/badge/%20-ffffff?logo=ubisoft&logoColor=000000" height="18" align="center" /> [Ubisoft](https://www.ubisoft.com)** · *Jan – Apr 2026*
 > Hand-coded email campaigns that landed in **tens of millions** of inboxes worldwide. On the side, I built a Figma plugin that saves designers **3.5h/week**, and it's now an official internal tool.
 
-**🎸 Production Technician @ <img src="https://www.google.com/s2/favicons?domain=iatse.net&sz=64" width="18" align="center" /> [IATSE Local 56](https://www.iatse.net)** · *2023 – 2026*
+** Production Technician @ <img src="https://www.google.com/s2/favicons?domain=iatse.net&sz=64" width="18" align="center" /> [IATSE Local 56](https://www.iatse.net)** · *2023 – 2026*
 > Built and tore down stages for **Osheaga, Metallica, and Shakira**. That's where I learned to ship under real deadlines.
 
-## 🏆 Projects & Wins
+##  Projects & Wins
 
 | | Project | What it does |
 |---|---|---|
@@ -67,9 +67,6 @@ Just a guy who likes learning stuff :)
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=Lekerj&theme=dark&background=000000&hide_border=true&cache_seconds=86400" alt="Lekerj's GitHub Streak" />
   <a href="https://github.com/Lekerj"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekerj&langs_count=8&layout=compact&theme=dark&bg_color=000000&hide_border=true&border_radius=10" alt="Top Languages" /></a>
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
 <div align="center">
