@@ -1,9 +1,21 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Ahmed Gara Ali</h1>
-<h3 align="center">Aspiring AI/ML Cloud Engineer</h3>
+# Hey, I'm Ahmed Gara Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" height="36" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lekerj/Lekerj/main/j.gif"/>
-</p>
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" align="right" width="380" alt="Hello there" />
+
+**Software Engineering (Co-op) @ Concordia University** 📍 Montreal, QC
+
+Just a guy who likes learning stuff :)
+
+<a href="https://www.linkedin.com/in/garaali"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:garaali.ahmed@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail" /></a>
+
+## 🔭 Currently
+- 🥽 **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
+- ⚙️ Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
+- ☁️ **AWS Certified Cloud Practitioner** on the way
+- 🧠 Interested in **ML and deep learning models**
+- 🔬 Exploring **LLM architecture**
+- 🏗️ Hacking on a tool that checks rebar shop drawings against structural plans
 
 ## 💼 Experience
 
@@ -30,7 +42,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
@@ -46,28 +60,16 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 Stats
 <p align="center">
-  <a href="https://github.com/Lekerj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lekerj&show_icons=true&theme=dark&bg_color=000000&hide_border=true&border_radius=10" alt="Lekerj's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Lekerj&theme=dark&background=000000&hide_border=true&cache_seconds=86400" alt="Lekerj's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <a href="https://github.com/Lekerj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekerj&langs_count=8&layout=compact&theme=dark&bg_color=000000&hide_border=true&border_radius=10" alt="Top Languages" />
-  </a>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Lekerj&theme=dark&background=000000&hide_border=true&cache_seconds=86400" alt="Lekerj's GitHub Streak" />
+  <a href="https://github.com/Lekerj"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekerj&langs_count=8&layout=compact&theme=dark&bg_color=000000&hide_border=true&border_radius=10" alt="Top Languages" /></a>
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/garaali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:garaali.ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <div align="center">
