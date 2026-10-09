@@ -7,8 +7,6 @@
 <a href="https://www.linkedin.com/in/garaali"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:garaali.ahmed@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail" /></a>
 
-<br clear="both" />
-
 ## 🔭 Currently
 - 🥽 **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
 - ⚙️ Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
