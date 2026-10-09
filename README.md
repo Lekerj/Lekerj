@@ -1,9 +1,11 @@
-<a href="https://www.linkedin.com/in/garaali"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=3200&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Welcome%2C+I'm+Ahmed+Gara+Ali;Software+Engineering+Student;%F0%9F%93%8D+Montreal%2C+QC" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/garaali"><img align="left" src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=3200&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Welcome%2C+I'm+Ahmed+Gara+Ali;Software+Engineering+Student;%F0%9F%93%8D+Montreal%2C+QC" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" align="right" width="380" alt="Hello there" /> <br><br>
 
 <a href="https://www.linkedin.com/in/garaali"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:garaali.ahmed@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail" /></a>
+
+<br>
 
 ## 🔭 Currently
 - 🥽 **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
