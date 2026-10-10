@@ -29,8 +29,8 @@
 | Project | What it does |
 |---|---|
 | **PharmaHacks 2026, 1st Place** | Detects Alzheimer's and dementia from clinical EEG data |
-| **Figma Handoff Plugin @ Ubisoft** | Automates repetitive designer handoff tasks and saves 3.5h/week per designer. Now an internal tool |
-| **SFMC Preview Bookmarker** | Chrome extension that records and replays Data Extension paths in SFMC, getting you there in one click instead of digging through folders |
+| **Figma Handoff Plugin @ Ubisoft** | Automates repetitive designer handoff tasks and saves 3.5h/week per designer. Now an internal tool. NDA Protected :P |
+| **Salesforce Preview Bookmarker** | Chrome extension that records and replays Data Extension paths in [Salesforce Marketing Cloud](https://www.salesforce.com/), getting you there in one click instead of digging through folders |
 | **SparkGuard, GCES UpStart Winner** | Prototype that maps live wildfire hotspots from satellite data |
 | **CareCompanion, ConUHacks 2026** | AI health companion prototype with safety guardrails |
 
