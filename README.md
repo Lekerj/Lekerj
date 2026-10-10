@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/garaali"><img align="left" src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=20&duration=3200&pause=1000&color=FFFFFF&vCenter=true&width=360&lines=Hey%2C+I'm+Ahmed+Gara+Ali;Software+Engineering+Student;Montreal%2C+QC" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/garaali"><img align="left" src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=20&duration=3200&pause=1000&color=FFFFFF&vCenter=true&width=360&lines=Hey%2C+I'm+Ahmed+Gara+Ali;Software+Engineering+Student;%F0%9F%93%8D+Montreal%2C+QC" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" align="right" width="340" alt="Hello there" />
 
