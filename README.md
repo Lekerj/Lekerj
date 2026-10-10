@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/garaali"><img align="left" src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=20&duration=3200&pause=1000&color=FFFFFF&vCenter=true&width=360&lines=Hey%2C+I'm+Ahmed+Gara+Ali;Software+Engineering+Student;%F0%9F%93%8D+Montreal%2C+QC" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/garaali"><img align="left" src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=20&duration=3200&pause=1000&color=FFFFFF&vCenter=true&width=360&lines=Hey%2C+I'm+Ahmed+Gara+Ali;Software+Engineering+Student;Montreal%2C+QC" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" align="right" width="340" alt="Hello there" />
 
@@ -7,15 +7,15 @@
 <a href="https://www.linkedin.com/in/garaali"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:garaali.ahmed@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail" /></a>
 
-## 🔭 Currently
-- 🥽 **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
-- ⚙️ Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
-- ☁️ **AWS Certified Cloud Practitioner** on the way
-- 🧠 Interested in **ML and deep learning models**
-- 🔬 Exploring **LLM architecture**
-- 🏗️ Hacking on a tool that checks rebar shop drawings against structural plans
+## Currently
+- **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
+- Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
+- **AWS Certified Cloud Practitioner** on the way
+- Interested in **ML and deep learning models**
+- Exploring **LLM architecture**
+- Hacking on a tool that checks rebar shop drawings against structural plans
 
-## 💼 Experience
+## Experience
 
 - **Solutions Engineer Intern @ <img src="https://www.google.com/s2/favicons?domain=wisesystems.com&sz=64" width="18" align="top" /> [Wise Systems](https://www.wisesystems.com)** · *May 2026 – Present*
 > Pre-sales demos → solution design → customer onboarding. I script "what-if" routing scenarios with Claude + internal planner APIs, so a customer can see the savings before signing anything.
@@ -26,17 +26,17 @@
 - **Production Technician @ <img src="https://www.google.com/s2/favicons?domain=iatse.net&sz=64" width="18" align="top" /> [IATSE Local 56](https://www.iatse.net)** · *2023 – 2026*
 > Built and tore down stages for **Osheaga, Metallica, and Shakira**. That's where I learned to ship under real deadlines.
 
-##  Projects & Wins
+## Projects & Wins
 
-| | Project | What it does |
-|---|---|---|
-| 🥇 | **PharmaHacks 2026, 1st Place** | Detects Alzheimer's and dementia from clinical EEG data |
-| 🎨 | **Figma Handoff Plugin @ Ubisoft** | Automates repetitive designer handoff tasks and saves 3.5h/week per designer. Now an internal tool |
-| 🔖 | **SFMC Preview Bookmarker** | Chrome extension that records and replays Data Extension paths in SFMC, getting you there in one click instead of digging through folders |
-| 🔥 | **SparkGuard, GCES UpStart Winner** | Prototype that maps live wildfire hotspots from satellite data |
-| 🩺 | **CareCompanion, ConUHacks 2026** | AI health companion prototype with safety guardrails |
+| Project | What it does |
+|---|---|
+| **PharmaHacks 2026, 1st Place** | Detects Alzheimer's and dementia from clinical EEG data |
+| **Figma Handoff Plugin @ Ubisoft** | Automates repetitive designer handoff tasks and saves 3.5h/week per designer. Now an internal tool |
+| **SFMC Preview Bookmarker** | Chrome extension that records and replays Data Extension paths in SFMC, getting you there in one click instead of digging through folders |
+| **SparkGuard, GCES UpStart Winner** | Prototype that maps live wildfire hotspots from satellite data |
+| **CareCompanion, ConUHacks 2026** | AI health companion prototype with safety guardrails |
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
@@ -55,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
 </p>
 
-## 📊 Stats
+## Stats
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=Lekerj&theme=dark&background=000000&hide_border=true&cache_seconds=86400" alt="Lekerj's GitHub Streak" />
   <a href="https://github.com/Lekerj"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekerj&langs_count=8&layout=compact&theme=dark&bg_color=000000&hide_border=true&border_radius=10" alt="Top Languages" /></a>
