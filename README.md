@@ -11,9 +11,7 @@
 - **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
 - Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
 - **AWS Certified Cloud Practitioner** on the way
-- Interested in **ML and deep learning models**
-- Exploring **LLM architecture**
-- Hacking on a tool that checks rebar shop drawings against structural plans
+- Interested in **ML and deep learning models** exploring **LLM architecture**
 
 ## Experience
 
