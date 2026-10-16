@@ -8,7 +8,7 @@
 <a href="mailto:garaali.ahmed@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail" /></a>
 
 ## Currently
-- **VP of Technology** at [**McGillXR**](https://mcgillxr.ca)
+- **VP of Technology** at [**McGillXR**](https://mcgillxr.ca). Rebuilt the club site from scratch ([case study](https://github.com/Lekerj/mcgillxr-case-study))
 - Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
 - **AWS Certified Cloud Practitioner** on the way
 - Interested in **ML and deep learning models** and exploring **LLM architecture**
@@ -28,6 +28,7 @@
 
 | Project | What it does |
 |---|---|
+| **[McGillXR Website Rebuild](https://github.com/Lekerj/mcgillxr-case-study)** · *Case study* | Took mcgillxr.ca from login-walled to public. Astro + Cloudflare, 21 events and 31 sponsors recovered, 100 accessibility/SEO on Lighthouse |
 | **PharmaHacks 2026, 1st Place** | Detects Alzheimer's and dementia from clinical EEG data |
 | **Figma Handoff Plugin @ Ubisoft** | Automates repetitive designer handoff tasks and saves 3.5h/week per designer. Now an internal tool. NDA Protected :P |
 | **Salesforce Preview Bookmarker** | Chrome extension that records and replays Data Extension paths in [Salesforce Marketing Cloud](https://www.salesforce.com/), getting you there in one click instead of digging through folders |
