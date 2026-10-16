@@ -15,7 +15,7 @@
 
 ## Experience
 
-- **Solutions Engineer Intern @ <img src="https://www.google.com/s2/favicons?domain=wisesystems.com&sz=64" width="18" align="top" /> [Wise Systems](https://www.wisesystems.com)** · *May 2026 – September 2026*
+- **Solutions Engineer Intern @ <img src="https://www.google.com/s2/favicons?domain=wisesystems.com&sz=64" width="18" align="top" /> [Wise Systems](https://www.wisesystems.com)** · *May – September 2026*
 > Pre-sales demos → solution design → customer onboarding. I script "what-if" routing scenarios with Claude + internal planner APIs, so a customer can see the savings before signing anything.
 
 - **Web Developer Intern @ <img src="https://img.shields.io/badge/%20-ffffff?logo=ubisoft&logoColor=000000" height="18" align="top" /> [Ubisoft](https://www.ubisoft.com)** · *Jan – Apr 2026*
