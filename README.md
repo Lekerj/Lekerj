@@ -61,5 +61,5 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Bottom Line" width="100%" />
+  <img src="city.gif" alt="Bottom Line" width="100%" />
 </div>
