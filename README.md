@@ -8,8 +8,8 @@
 <a href="mailto:garaali.ahmed@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" alt="Gmail" /></a>
 
 ## Currently
-- **VP of Technology** at [**McGillXR**](https://mcgillxr.ca). Rebuilt the club site from scratch ([case study](https://github.com/Lekerj/mcgillxr-case-study))
-- Solutions Engineering at **Wise Systems**, building routing and fleet optimization demos
+- **VP of Technology** at [**McGillXR**](https://mcgillxr.ca).
+- Just recently rebuilt the club site from scratch ([case study](https://github.com/Lekerj/mcgillxr-case-study))
 - **AWS Certified Cloud Practitioner** on the way
 - Interested in **ML and deep learning models** and exploring **LLM architecture**
 
