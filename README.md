@@ -22,7 +22,7 @@
 > Hand-coded email campaigns that landed in **tens of millions** of inboxes worldwide. On the side, I built a Figma plugin that saves designers **3.5h/week**, and it's now an official internal tool.
 
 - **Production Technician @ <img src="https://www.google.com/s2/favicons?domain=iatse.net&sz=64" width="18" align="top" /> [IATSE Local 56](https://www.iatse.net)** · *2023 – 2026*
-> Built and tore down stages for **Osheaga, Metallica, and Shakira**. That's where I learned to ship under real deadlines.
+> Built and tore down stages for **Osheaga, Metallica, and Shakira**. Manual work, big teams and tight deadlines is what my shifts look like every time :P
 
 ## Projects & Wins
 
