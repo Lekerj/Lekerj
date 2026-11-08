@@ -49,7 +49,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
 </p>
@@ -57,7 +57,6 @@
 ## Stats
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=Lekerj&theme=dark&background=000000&hide_border=true&cache_seconds=86400" alt="Lekerj's GitHub Streak" />
-  <a href="https://github.com/Lekerj"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekerj&langs_count=8&layout=compact&theme=dark&bg_color=000000&hide_border=true&border_radius=10" alt="Top Languages" /></a>
 </p>
 
 <div align="center">
